@@ -1,0 +1,12 @@
+package home;
+
+public class ValidteThePrice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("validate the price");
+
+	}
+
+}
